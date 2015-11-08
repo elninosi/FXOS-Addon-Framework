@@ -1,0 +1,16 @@
+{
+  "manifest_version": 1,
+  "name": "Name of addon",
+  "description": "Description of addon",
+  "version": "1.0",
+  "author": "Nino Vranešič",
+  "content_scripts": [{
+    "matches": ["https://m.facebook.com/"],
+    "css": ["css.css"],
+    "js": ["js.css"]
+  }],
+  "icons": {
+    "60": "/style/icons/60.png",
+	"128": "/style/icons/128.png"
+  }
+}

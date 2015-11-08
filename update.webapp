@@ -1,0 +1,12 @@
+{
+  "name": "Addon name",
+  "description": "Addon description.",
+  "developer": {
+    "name": "Nino Vranešič"
+  },
+  "package_path": "extension.zip",
+  "icons": {
+    "60": "/style/icons/60.png",
+	"128": "/style/icons/128.png"
+  }
+}
